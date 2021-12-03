@@ -25,8 +25,10 @@ Posts and Helper typescript classes performs works of talking with the hackers n
 ##### Posts Class Method Lists
 Following is tabulated lists of posts methods
 
-Post Method  | Description
+Post Method  | Method Description
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+public q1(obj)  | This method solves the first problem by retrieving the top 10 most occurring words in the titles of the last 25 stories
+public q2(obj)  | This method solves the second problem by retrieving the top 10 most occurring words in the titles of the posts exactly the last week
+public q3(obj)  | This method solves the second problem by retrieving the top 10 most occurring words in the titles of the last 600 stories of users with at least 10.000 karma
+private procurr(obj)  | This a helper method set to private modifier, its works as a general call and data retrieval end point for the other 3 methods in the Posts class
 
