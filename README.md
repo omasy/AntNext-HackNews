@@ -18,11 +18,14 @@ Posts and Helper typescript classes performs works of talking with the hackers n
 
 * Posts Class
   Post class contains 3 methods that manipulate hacker news api data to solves the underlying problems
-  it contains 4 majors function/methods which solves individual problems imposed
+  it contains 4 majors function/methods which solves individual problems imposed 
+* Helper Class
+  Helper class contains 11 methods that provide minor data manipulation functionalities used across the main class Posts
   
-  ####### Method Lists
-  
-  First Header  | Second Header
+##### Posts Class Method Lists
+Following is tabulated lists of posts methods
+
+Post Method  | Description
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
