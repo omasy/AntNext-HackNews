@@ -1,6 +1,7 @@
 # AntNext-HackNews
 AntNext-HackNews is a nextjs typescript project that calls hacker news API to retrieve stories data, manipulate data and return an end point
 This project is an assessment Autocheck Senior Backend Engineer postion
+Download Project from here <https://github.com/omasy/AntNext-HackNews/releases/tag/antnewshacknews>
 
 ### Problems intended to solve
 there's three problems this project is meant to tackle after retrieving data from the hackernews API
@@ -57,4 +58,8 @@ You can interact with the output of this project by following the 3 links as fol
 
 #### Endpoint Return Format
 This project returns JSON of most ocurring words in titles of the stories
+
+#### Download Project Source
+Due to large file problem with NextJS Projects i can only upload full code in the release folder please clck below
+Download Project from here <https://github.com/omasy/AntNext-HackNews/releases/tag/antnewshacknews>
 
