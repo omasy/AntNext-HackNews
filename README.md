@@ -1,6 +1,7 @@
 # AntNext-HackNews
 AntNext-HackNews is a nextjs typescript project that calls hacker news API to retrieve stories data, manipulate data and return an end point
-This project is an assessment Autocheck Senior Backend Engineer postion
+This project is an assessment Autocheck Senior Backend Engineer postion.
+- - - -
 Download Project from here <https://github.com/omasy/AntNext-HackNews/releases/tag/antnewshacknews>
 
 ### Problems intended to solve
